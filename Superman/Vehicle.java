@@ -2,7 +2,7 @@ class Vehicle {
     int speed=120;
      // super Is a keyword in java that refers to the reference class in an inheritance relationship 
      Vehicle(){
-        System.out.println("Lets move faster in the vehicle constrictor");
+        System.out.println("Lets move faster in the vehicle constructor");
      }
      void drive(){
         System.out.println("Drive");
